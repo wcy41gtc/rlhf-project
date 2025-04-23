@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints and temp files
+*.checkpoint
+*.ipynb_checkpoints/
+~$*.ipynb
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda environment file locks
+*.lock
+
+# Mac OS
+.DS_Store
+
+# Logs and profiling
+logs/
+profiling/
+*.prof
+*.log
+
+# TensorBoard logs
+runs/
+events.out.tfevents.*
+
+# Datasets
+data/
+
+# Model weights and outputs
+*.bin
+*.pt
+*.ckpt
+*.onnx
+*.h5
+checkpoints/
+outputs/
+models/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook metadata
+.ipynb_metadata/
+
+# Python cache
+*.pyo
+*.pyd
+*.pyc
+
+# MyPy
+.mypy_cache/
+
+# Coverage and test files
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.cache
+pytest_cache/
