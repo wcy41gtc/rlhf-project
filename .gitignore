@@ -34,9 +34,6 @@ profiling/
 runs/
 events.out.tfevents.*
 
-# Datasets
-data/
-
 # Model weights and outputs
 *.bin
 *.pt
